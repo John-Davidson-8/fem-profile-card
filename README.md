@@ -32,7 +32,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/small-profile-card-created-using-html-and-css-flexbox-lG302BMx63
 
 - Live Site URL: https://fem-profile-card-site.netlify.app/
 
